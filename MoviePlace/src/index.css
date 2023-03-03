@@ -1,0 +1,18 @@
+*{
+  font-family: Helvetica;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: rgb(30, 30, 30);
+  color: white;
+}
+a{
+  text-decoration: none;
+  color: firebrick;
+  transition: .5s;
+}
+a:hover{
+  color: rgb(122, 24, 24);
+}
